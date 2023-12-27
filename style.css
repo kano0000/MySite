@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+/*ヘッダー*/
 header {
   background-color: #EC715F;
   height: 70px;
@@ -34,7 +34,7 @@ header {
   display :inline-block;
   padding: 0 30px;
 }
-
+/*メインビジュアル*/
 .main-visual {
   background-image: url(img/mv.png);
   background-size: cover;
@@ -59,7 +59,7 @@ header {
 .mv-text{
   font-size: 20px;
 }
-
+/*ポートフォリオ*/
 .portfolio {
   background-color: #ECEFF1;
   width: 100%;
@@ -135,7 +135,7 @@ header {
 .portfolio-img:nth-child(6){
   background-image: url(img/webcamp-mother.png);
 }
-
+/*feature*/
 .feature {
   width: 980px;
   margin: 0 auto;
@@ -195,7 +195,7 @@ header {
 .strength3 {
   width: 320px;
 }
-
+/*プロフィール*/
 .profile {
   background-color: #ECEFF1;
   width: 100%;
@@ -266,7 +266,7 @@ header {
   font-size: 16px;
   color: #000000;
 }
-
+/*コンタクト*/
 .contact {
   width: 800px;
   margin: 0 auto;
@@ -316,7 +316,7 @@ header {
   padding-right: 20px;
   font-size: 50px;
 }
-
+/*フッター*/
 footer {
   background-color: #EC715F;
   height: 60px;
